@@ -1,4 +1,4 @@
-Building Myscoin
+Building Make you smile coin 
 
 
 Intall the following through Terminal:
@@ -14,6 +14,10 @@ sudo apt-get install libminiupnpc-dev
 sudo apt-get install libzmq3-dev
 sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
 sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
+
+Go to main Directory through Terminal - ( Location of COIN ----->as EXAMPLE: cd home/myscoin ) 
+
+Then run the file with the typical start engine :)$(:  ( ./myscoin-qt )
 
 
 See doc/readme-qt.rst for instructions on building Myscoin-Qt,
