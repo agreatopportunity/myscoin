@@ -4,7 +4,7 @@ Myscoin integration/staging tree
 http://www.myscoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Myscoin Developers
+Copyright (c) 2018 Myscoin Developer
 
 What is Myscoin?
 ----------------
@@ -19,8 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Myscoin client sofware, see http://www.myscoin.org.
-
+the Myscoin client sofware, see http://github.com/agreatopportunity/myscoin
 License
 -------
 
@@ -45,7 +44,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/myscoin-project/myscoin/tags) are created
+completely stable. [Tags](https://github.com/agreatopportunity/myscoin ) are created
 regularly to indicate new official, stable release versions of Myscoin.
 
 Testing
