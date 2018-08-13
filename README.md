@@ -9,7 +9,8 @@ Copyright (c) 2018 Myscoin Developer
 What is Myscoin?
 ----------------
 
-Myscoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Myscoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm ( LITECOIN ) :)$(:  The best way to get everything in life you want , is by helping enough others achieve what they want :)$(: 
+
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~1 quadrillion total coins
