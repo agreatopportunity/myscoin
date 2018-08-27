@@ -45,6 +45,12 @@ Go to main Directory - ( Location of COIN ----->as EXAMPLE: cd home/myscoin )
 Then run the file with the typical start engine :)$(:  ( ./myscoin-qt )
 
 
+
+Windows OS - 
+Standalone executable released in the v2.0 :)$(: 
+
+
+
 See doc/readme-qt.rst for instructions on building Myscoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of Myscoin.
